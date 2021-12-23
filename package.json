@@ -1,0 +1,26 @@
+{
+  "name": "@hekataios/core-api",
+  "version": "1.0.0",
+  "description": "The core API for the roleplaying cartographer toolset.",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hekataios/core-api.git"
+  },
+  "keywords": [
+    "tool",
+    "cartography",
+    "history",
+    "roleplay",
+    "api"
+  ],
+  "author": "Kevin 'Nakasar' Thizy <contact@nakasar.xyz>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Hekataios/core-api/issues"
+  },
+  "homepage": "https://github.com/Hekataios/core-api#readme"
+}
